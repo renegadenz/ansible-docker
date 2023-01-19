@@ -4,7 +4,6 @@ Quick and dirty deployment of ansible in a container.
 
 ```
 docker build -t my-ansible-image .
-
 ```
 
 This command will build an image named my-ansible-image using the Dockerfile in the current directory.
